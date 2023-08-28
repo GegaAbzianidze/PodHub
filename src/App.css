@@ -1,0 +1,9 @@
+/* import custom ttf font */
+@font-face {
+  font-family: 'matter';
+  src: url('/Matter-Regular.ttf') format('truetype');
+}
+
+* {
+  font-family: 'matter';
+}
